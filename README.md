@@ -1,1 +1,2 @@
 Testing
+UChicago Student Resource Guide
